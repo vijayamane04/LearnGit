@@ -2,3 +2,6 @@ tested
 123
 test hard reset
 123dbiud
+eam branch check
+check diff
+stash
