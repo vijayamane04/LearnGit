@@ -1,0 +1,2 @@
+stash1
+stashed line
